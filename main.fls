@@ -1,4 +1,4 @@
-PWD /home/rey/projects/papers/annabel_iclr
+PWD /home/rey/projects/papers/iclr_ccai_paper
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT main.tex
